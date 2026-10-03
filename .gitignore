@@ -1,0 +1,7 @@
+# per-machine settings and the drift state the wrapper writes beside itself
+genimg.json
+genimg.state.json
+
+# scratch
+.ai/
+node_modules/

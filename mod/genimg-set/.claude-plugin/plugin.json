@@ -1,0 +1,7 @@
+{
+  "name": "genimg-set",
+  "version": "0.4.0",
+  "description": "/genimg-set picks the codex model and reasoning effort that genimg.ps1 draws with from codex's own list, and tells whether a codex update has broken it",
+  "author": { "name": "EthanXing-xyy" },
+  "types": "./types/index.d.ts"
+}
