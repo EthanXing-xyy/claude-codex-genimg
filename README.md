@@ -144,6 +144,11 @@ claude plugin validate .\mod\genimg-set
 claude plugin test .\mod\genimg-set
 ```
 
+## Contributors
+
+- [EthanXing-xyy](https://github.com/EthanXing-xyy)
+- [Claude](https://claude.com/claude-code) (Anthropic), working in Claude Code
+
 ## License
 
 MIT
